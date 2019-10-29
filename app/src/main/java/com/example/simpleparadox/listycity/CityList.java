@@ -15,13 +15,13 @@ public class CityList {
      * @param city
      *      This is a candidate city to add
      */
-    /*public void add(City city) {
+    public void add(City city) {
         if (hasCity(city)) {
             throw new IllegalArgumentException();
         }
         cities.add(city);
     }
-    */
+    
     /**
      * This returns a sorted list of cities
      * @return
